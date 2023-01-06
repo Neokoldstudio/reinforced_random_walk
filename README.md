@@ -6,5 +6,8 @@ this repository correspond to a project we have to make in our math minor class
 you'll find the subject gave to us in this repository :)
 
 ## technos : 
-- matplotlib
-- numpy
+- language : python
+
+libraries :
+  - matplotlib
+  - numpy
